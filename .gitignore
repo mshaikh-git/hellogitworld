@@ -1,6 +1,6 @@
+ignored.txt
 *.class
 *.log
 output/
 build/
 target/
-ignored.txt
