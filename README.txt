@@ -2,6 +2,8 @@ This is a sample project students can use during Matthew's Git class.
 
 Here is an addition by me
 
+Another one by GSK!
+
 Addition by Gsk!
 
 2nd line added
