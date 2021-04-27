@@ -1,6 +1,6 @@
 Hi, This is Gsk!
 
-Adding something for merging.
+Adding something for merging from gsk branch.
 
 testing automerge on gsktest
 
@@ -13,3 +13,5 @@ My 1st do,c is already started, long time ago :)
 4th line
 
 5th line added.
+
+new line fro gsk branch
