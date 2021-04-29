@@ -1,28 +1,3 @@
 Hi, This is Gsk!
 
-Something from github ui
-
-Adding something for merging from master branch.
-Adding something for merging from gsk branch.
-
-testing automerge on gsktest
-
-My 1st do,c is already started, long time ago :)
-
-2nd line just added.
-
-3rd line
-
-4th line
-
-5th line added.
-
-last from gsk
-
-6th line from master branch
-6th line from gsk branch
-
-7th line extra on master
-
-new line fro gsk branch
-changes from gsk branch
+removed everything for stash
